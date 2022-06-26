@@ -1,0 +1,424 @@
+If p is true or q is true or both p and q are true, then p?q is…
+
+true
+
+Let (p) be “she is beautiful” and (q) be “she is fat” . Express the statement “She is beautiful or fat” in symbolic form using p and q.
+
+
+
+Let (p) be “she is beautiful” and (q) be “she is fat” . Express the statement “She is beautiful but not fat” in symbolic form using p and q
+
+
+
+
+
+- 19
+
+ 
+
+
+
+ 
+
+7
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+ 
+
+ 
+
+
+
+
+
+
+
+ 
+
+
+
+Two vectors are equal if their --------- are equal.
+
+A * magnitudes and directions B. directions C. sum and difference D. magnitude
+
+magnitudes and directions
+
+The magnitude of a vector R = 12i + 5j is ----------
+
+13
+
+ 
+
+Find the unit vector in the direction of the vector 3i - 2j + 6k.
+
+( 3i - 2j + 6k)/7
+
+Given that R1 = 3i + 5j and R2 = 3i + 4j. Find the magnitude of a vector 2 R1 - 3R2
+
+ 
+
+
+
+ 
+
+Given that R1 = 4i + 5j and R2 = - i + 3j. Find the magnitude of a vector R1 + 2R2
+
+
+
+Find the vector in direction of the vector 2i -2 j -k. whose magnitude is 6.
+
+ 
+
+4i -4j +2k
+
+Determine the unit vector in the direction of the vector 2i - 3j .
+
+
+
+Determine the vector whose magnitude is 5 in the direction of the vector i +2j .
+
+
+
+Given that R1 R2 and R3 are complex numbers .The following are true except …..
+
+
+
+
+
+ 
+
+
+
+Evaluate (4+3i)^2
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+kl
+
+
+
+
+
+
+ 
+
+1/2
+
+ 
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+ 
+
+
+
+If the distance between two points 3+2i and k+2i in the complex plane is 5, find k.
+
+-2
+
+ 
+
+Express the complex number 12+5i in polar form.
+
+13(cos 22.620 + isin22.620 )
+
+Express the complex number 4+4i in polar form
+
+
+Find the distance between the points (1, -2) and (3, -6) .
+
+
+
+ 
+
+ 
+
+
+
+
+
+Determine the coordinate of the midpoint of the line joining the points (-5,-9) and (6, 8)
+
+(1/2, 1/2)
+
+
+
+ 
+
+
+
+
+
+
+
+ 
+
+Find the gradient and the angle of inclination of the straight line passing through the points (1, -3) and (4, 6).
+
+3,  71.570
+
+Given a circle with centre at the origin, which passes through the point ( 1, 1). Find its equation.
+
+
+
+
+
+
+
+Find the 10th term of an Arithmetic Sequence (A.P) whose first term is 42 and common difference is 4
+
+ 
+
+78
+
+ 
+
+
+
+
+
+An Arithmetic Sequence (A.P) has 17 terms and its first term is 2 and last term is 146. Find the common difference.
+
+ 
+
+9
+
+ 
+
+
+
+ 
+
+
+
+The second and eight terms of a geometric progression are 81/2 and 1/18 respectively. Find the common ratio.
+
+ 
+
+1/3
+
+ 
+
+
+
+
+
+
+
+
+
+If p is true, q is true; then p and q must be ……..
+
+ 
+
+True  
+The meaning of the disjunction of p and q denoted by p?q is …......
+
+p or q
+The meaning of the conjunction of p and q denoted by p?q is …......
+
+p and q
+What does the negation of p denoted by ~p mean?
+
+  Not
+The negation of contradiction is a ……
+
+tautology
+The negation of tautology is a ………
+
+Contradiction
+A matrix in which all its diagonal elements are one (1), where all other elements are zero is called ……..
+
+identify matrix
+Find the determinant of the matrix abcd
+
+ad-cb
+A matrix in which its transpose is equal to itself is ……
+
+symmetric matrix
+A matrix is said to be ……. if the determinant is equal to zero.
+
+Singular
+The negation of tautology is a ………
+
+ 
+
+contradiction
+If the conclusion derives its support from its premises, the argument is said to be … ..
+
+Valid
+Any matrix, which has the same number of rows and columns is called ….
+
+square matrix  
+Let A =52n38 and B =c3k-1e be equal. Find elements e and k in matrix B
+
+ 
+
+e= 8, k=4
+A +B are equal to identity matrix, find x+y, where A =x-y2s-x and  B=-5x-202y.
+
+ 
+
+7
+Any matrix of dimension (m x n) with all its elements equal to zero is called ….:
+
+ 
+
+ 
+
+Void Matrix
+Given that X=246 and Y= 35-7, Find XY
+
+16
+A matrix in which all its diagonal elements are one (1), where all other elements are zero is called ……..
+
+Identify Matrix  
+Given that X=246 and Y= 35-7, Find XY
+
+ 
+
+-16
+The inter-changing of a matrix row with its column is called ……..
+
+Transpose of a Matrix
+The determinant of 3-211 is ---------
+
+5
+let -7
+If a matrix y482 . is singular, what is y?.
+
+16
+Given that AB?+BC?=AC?, then AC? is called …… vector.
+
+Resultant
+Two vectors ai + bj and ci + dj are equal if ……….
+
+a =c, b=d
+The magnitude of a vector 3i - 4j is --------
+
+5
+Determine the unit vector in the direction of the vector 5i - 12j.
+
+(5i - 12j)/13
+Simplify  (1-2i2 .
+
+-3-4i
+Determine (1-i)/(1+i)
+
+2
+Find 7-3z if z =2+i.
+
+1-3i
+Determine  1-z2 , given that z =4 - i.
+
+-14 +18i
+Simply  3+4i/1-2i.
+
+-1+2i
+Express the complex number 21-2i-12-i in the form a+bi.
+
+-3i/5
+The square of the distance between two points Z1=1+3i and Z2=4+2i in the complex plane is given by…….
+
+10
+Find the equation of the line which passes through the pair of points (-1,-1) and (2, 2).
+
+y -x =0
+State the gradient and the y- intercept respectively of the line x - 4y - 8 = 0.
+
+1/4, - 2
+Find the equation of the line which is parallel to the line 2y + 5x = 1 and passes through the point of (4, 5).
+
+2y -5x =30
+Find the centre and radius of the circles x2 + y2- 2x + 12y +36 = 0 respectively..
+
+(1, -6), 1
+Evaluate
+
+-1
+
+
+-3
+Evaluate limX?4?X-2x2- 42
+
+1/6
+
+
+-1/3
+Let y=loge(4x+5)). dydx is ----
+
+4/(4x-5)
+Differentiate f(x) = (x – 1)(3x – 2) with respect to x.
+
+6x-5
+Determine the gradient of the line joining the points (7, 3) and (4, -6)
+
+3
+Determine the distance between the midpoint D of the line joining AB (A(3, 4) and B(5, 8)) and C(1, 2)
+
+5
+Determine the gradient of a straight line passing through the point (2, 5) and (-6, 6).
+
+1/8
+Find the gradient and the angle of inclination respectively of the straight line passing through the points (-2, 4) and (3, 6).
+
+2/5, 21.800
+Find the value of x for which the curve   has the maximum value.
+
+-5
+The value of i15 is …………………………………………..
+
+ 
+
+-i

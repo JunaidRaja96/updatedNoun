@@ -1,0 +1,43 @@
+demand (curve can be represented )
+x-axis
+equal 
+series
+Point located vector (vector whose position in )
+imaginary number
+scalar 
+rectangular 
+Free vectors (have magnitude and direction)
+circle 
+
+10/10
+
+
+1. Two vectors a- and b- are said to be --------------if they have the same magnitude and direction
+equal
+
+2. A ---------------is the locus of a curve (equidistant from a point)
+circle
+
+3. have magnitude and direction but have no particular position associated with them, for example; displacement.
+Free vectors
+
+4. Speed, energy, mass, density, time, length, work, temperature are examples of 
+scalar
+
+5. The _ curve can be represented in many forms such ass linear, quadratic, cubic, etc
+demand
+
+6. A complex variable Z is of the form a+ib, where a and b are real numbers and i is called the
+imaginary number
+
+7. A____ is a succession of numbers of which each number is formed according to a definite law which is the same throughout
+series
+
+8. A point P(x,y) means that P is in the (x,y) – plane, where x is called the abscissa and y is the ordinate
+rectangular
+
+9. is a vector whose position in space is fixed in addition to its magnitude and direction
+Point located vector
+
+10. The slope of a straight line can be defined in respect to the angle of inclination of the line with t
+x-axis
