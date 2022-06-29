@@ -44,5 +44,7 @@ Route::middleware(['subscribed.student'])->group(function () {
         return view('studentDashboard.pastQuestion',compact('data'));
     })->name('pastquestions');
     Route::view('profile','studentDashboard.profile')->name('profile');
+    Route::get('edit/Step2',[StudentSubscriptionController::class,'editprefrence'])->name('step2');
+    Route::post('update/Step2',[StudentSubscriptionController::class,'prefrenceUpdate'])->name('prefrenceUpdate');
     Route::post('changepassword',[MeetaTutorController::class,'changepassword'])->name('changepassword');
 });

@@ -59,7 +59,7 @@ class StudentSubscriptionController extends Controller
             return redirect()->route('student.subscription.' . $check);
         }
 
-        return view('student.subscription.step2');
+        return view('studentDashboard.student.subscription.step2');
     }
 
     public function storePrefrences(Request $request)
@@ -84,7 +84,7 @@ class StudentSubscriptionController extends Controller
             return redirect()->route('student.subscription.' . $check);
         }
 
-        return view('student.subscription.step3');
+        return view('studentDashboard.student.subscription.step3');
     }
 
     public function storePayment(Request $request)
@@ -135,6 +135,33 @@ class StudentSubscriptionController extends Controller
             return 'step4';
         }
     }
+    public function editprefrence()
+    {
+        $subscription = new StudentSubscription;
+        $subscriptionData = $subscription->where('user_id',auth()->user()->id)->first();
+        return view('studentDashboard.edit-step2',compact('subscriptionData'));
+
+    }
+    public function prefrenceUpdate(Request $request)
+    {
+
+        $subscription = StudentSubscription::where('user_id',auth()->user()->id)->latest()->first();
+        abort_if(!$subscription,403);
+
+        StudentSubscription::find($subscription->id)->update([
+            "tma_test" => ($request->tma_test) ? 1 : 0,
+            "past_questions" => ($request->past_questions) ? 1 : 0,
+            "connect_with_tutor" => ($request->connect_with_tutor) ? 1 : 0,
+            "become_a_tutor" => ($request->become_a_tutor) ? 1 : 0,
+            "completed" => 75
+        ]);
+        return redirect()->back()->with('sweetalert',[
+            'title' => 'Your Prefrence Chagne successfully',
+            'type' => 'success'
+        ]);
+
+    }
+
 
 
 }
